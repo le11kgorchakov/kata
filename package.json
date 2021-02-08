@@ -1,0 +1,19 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "code practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le11kgorchakov/kata.git"
+  },
+  "author": "le11k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le11kgorchakov/kata/issues"
+  },
+  "homepage": "https://github.com/le11kgorchakov/kata#readme"
+}
