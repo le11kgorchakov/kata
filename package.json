@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/le11kgorchakov/kata/issues"
   },
-  "homepage": "https://github.com/le11kgorchakov/kata#readme"
+  "homepage": "https://github.com/le11kgorchakov/kata#readme",
+  "dependencies": {
+    "typescript": "^4.1.5"
+  }
 }
