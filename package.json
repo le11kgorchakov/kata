@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/le11kgorchakov/kata#readme",
   "dependencies": {
+    "chai": "^4.3.0",
     "typescript": "^4.1.5"
   }
 }
