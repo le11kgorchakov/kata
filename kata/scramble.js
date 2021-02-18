@@ -18,11 +18,11 @@ function scramble(str1, str2) {
 //one liner
 
 // const scramble = (str1,str2) => {
-//   let isLetter = str1.split('').reduce((isAvailable, curLetter) => {
-//       isAvailable[curLetter]? isAvailable[curLetter]++ : isAvailable[curLetter] = 1
-//       return isAvailable
+//   let availableChar = str1.split('').reduce((container, curLetter) => {
+//       container[curLetter]? container[curLetter]++ : container[curLetter] = 1
+//       return container
 //   }, {})
-//   return str2.split('').every((char) => --isLetter[char] >= 0)
+//   return str2.split('').every((char) => --availableChar[char] >= 0)
 // }
 
 // console.log(scramble("rkqodlw", "world"), true);
